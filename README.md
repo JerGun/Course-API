@@ -1,5 +1,6 @@
-# Software Architecture
-📝 Repository of Software Architecture subject work
+# Course API
+📝 Repository of Course API <br/>
+✔️ This API has Many-To-Many, Many-To-One And One-To-Many Relationship
 
 ## Tools & Configuration:
 
@@ -8,12 +9,11 @@
   - [Spring Tools for Eclipse](https://spring.io/tools)
   - [XAMPP](https://www.apachefriends.org/download.html)
   - [Postman](https://www.postman.com/downloads/)
-  - [Visual Studio Code](https://code.visualstudio.com/download)
   
 ### 📌 Configuration:
 Database connect configs in folder src\main\resources\application.properties
 ```md
-spring.datasource.url=jdbc:mysql://localhost/<database>?characterEncoding=utf-8&useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+spring.datasource.url=jdbc:mysql://localhost/course?characterEncoding=utf-8&useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
 spring.datasource.username=root
 spring.datasource.password=
 
