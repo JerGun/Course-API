@@ -1,6 +1,5 @@
 # Course API
-📝 Repository of Course API <br/>
-✔️ This API has Many-To-Many, Many-To-One And One-To-Many Relationship
+📝 This API has Many-To-Many, Many-To-One And One-To-Many Relationship
 
 ## Tools & Configuration:
 
